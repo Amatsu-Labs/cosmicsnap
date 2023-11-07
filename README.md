@@ -1,6 +1,6 @@
-# Goldenrod Astro Theme
+# CosmicSnap
 
-Goldenrod is a modern blog theme for Astro built using Tailwind CSS.
+CosmicSnap is a modern blog theme for Astro built using Tailwind CSS.
 
 ## Features
 
